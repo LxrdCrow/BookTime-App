@@ -19,4 +19,4 @@
 
 ## Development
 
-Currently I have begun to define the structure of factories and seeders
+Checking bugs and work inside 'app'
