@@ -19,5 +19,4 @@
 
 ## Development
 
-Currently working on setting up the database schema, defining Laravel structure, and integrating essential libraries.  
-Docker and Laravel Sail have been configured as the development environment, running on WSL2 with Ubuntu.
+Currently I have begun to define the structure of factories and seeders
