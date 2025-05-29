@@ -19,4 +19,4 @@
 
 ## Development
 
-Checking bugs and work inside 'app'
+Building logic and structure of models
