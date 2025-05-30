@@ -19,4 +19,4 @@
 
 ## Development
 
-Building logic and structure of models
+Review models and looking for structure of Controllers
