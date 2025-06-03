@@ -19,4 +19,4 @@
 
 ## Development
 
-Review models and looking for structure of Controllers
+Building logic and structure of Controllers
