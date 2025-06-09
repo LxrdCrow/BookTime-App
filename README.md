@@ -19,4 +19,4 @@
 
 ## Development
 
-Building logic and structure of Controllers
+Completed routes and check for bug/errors

@@ -1,6 +1,18 @@
 <?php
 
+
+
+
 return [
+
+    'providers' => [
+    /*
+     * Laravel Framework Service Providers...
+     */
+    Illuminate\Auth\AuthServiceProvider::class,
+    Illuminate\Broadcasting\BroadcastServiceProvider::class,
+
+    
 
     /*
     |--------------------------------------------------------------------------
@@ -123,4 +135,9 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
+App\Providers\AppServiceProvider::class,
+    App\Providers\AuthServiceProvider::class,
+    App\Providers\EventServiceProvider::class,
+    App\Providers\RouteServiceProvider::class,
+    ],
 ];
